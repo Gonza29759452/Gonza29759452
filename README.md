@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/in/gonzalo-m-tapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gonzalo-m-tapia" height="30" width="40" /></a>
 <a href="https://instagram.com/gonzatapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gonzatapia" height="30" width="40" /></a>
 </p>
-![Dmyf](https://github.com/Gonza29759452/Gonza29759452/assets/72949029/92760a49-8aac-4c19-b2dd-b36f0ac5d51c)
 
 
 <h3 align="left">Languages and Tools:</h3>
