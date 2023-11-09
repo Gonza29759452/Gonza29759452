@@ -2,7 +2,7 @@
 <h3 align="center">💻🎥</h3>
 
 - 📫 Contacto **gmtvideo@gmail.com**
-<h3 style="width:100%"><div style="height:0;padding-bottom:100%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/NnqiR15O5bGELON440/video" style="left:0;position:absolute;top:0" width="100%"></iframe></h3>
+
 
 <h3 align="left">Conecta conmigo 😊:</h3>
 <p align="left">
